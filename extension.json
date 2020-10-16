@@ -1,0 +1,7 @@
+{
+	"version": "1.0.0",
+	"name": "알버트 스쿨",
+	"type": "scratch3",
+	"extensions": ["albertschool"],
+	"image": "albertschool-image.png"
+}
